@@ -76,9 +76,9 @@ const Home = () => {
               <Subtitle subtitle={'Experience'}/>
               <h2>With our all experience <br /> we will serve you</h2>
               <p>
-               hahahahahaijauhdjkhdkuhakukuahdshfiu
+               Kwesi Appiah Korang
               <br />
-               jhuhuihuirhuihuibbhyfgyeugfiufh
+              Obed Kweku Frempong Boadi
               </p>
              </div>
              <div className="counter__wrapper d-flex align-items-center gap-5">
