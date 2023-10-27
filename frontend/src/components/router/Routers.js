@@ -7,7 +7,6 @@ import SearchResultList from "../pages/SearchResultList"
 import TourDetails from "../pages/TourDetails"
 import Tour from "../pages/Tours"
 
-
 const Routers = () => {
   return (
     <div>
